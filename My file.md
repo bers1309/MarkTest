@@ -64,12 +64,23 @@ Lists:
 Блок з додатковою інформацією  
 </details>
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+``mermaid
+graph TD; A-->B; A-->C; B-->D; C-->D;
+
 > Created with [MarkHub](http://markhub.io/).
 <!--markhub_data:
-eyJoaXN0b3J5IjpbLTE3MjYyNTE3MDYsLTEyOTkxMTc4MTAsLT
-EwODA1OTgwNTksMTc1NTEzMDM3MCw3NjcwMjM4ODUsLTE2OTU4
-NzQwOTYsMTAyNjE3NjA5MCwtMTUwNjMyOTA5MCw4OTMxNDY5OD
-MsNTgyOTQ4MjQxLDczOTEwOTg0NSwxNTcyODE1MzA3LDg1MjYz
-MzcxMSwxOTM0NzQxMDQsLTExMjQ4NzM0NDMsLTE5MDQzMzcwMC
-wxNzY2MzA1NTk4LDEwMzE2NjU4ODIsLTQyMDI2ODg5N119
+eyJoaXN0b3J5IjpbOTkwNDEyNzYyLC0xNzI2MjUxNzA2LC0xMj
+k5MTE3ODEwLC0xMDgwNTk4MDU5LDE3NTUxMzAzNzAsNzY3MDIz
+ODg1LC0xNjk1ODc0MDk2LDEwMjYxNzYwOTAsLTE1MDYzMjkwOT
+AsODkzMTQ2OTgzLDU4Mjk0ODI0MSw3MzkxMDk4NDUsMTU3Mjgx
+NTMwNyw4NTI2MzM3MTEsMTkzNDc0MTA0LC0xMTI0ODczNDQzLC
+0xOTA0MzM3MDAsMTc2NjMwNTU5OCwxMDMxNjY1ODgyLC00MjAy
+Njg4OTddfQ==
 -->
