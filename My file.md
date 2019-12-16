@@ -40,15 +40,14 @@ Lists:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_AUmIwWbtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```
-<iframe src="https://h5p.org/h5p/embed/707" width="688" height="412" frameborder="0" allowfullscreen="allowfullscreen">Завантаження...</iframe>
-```
+<iframe src="https://h5p.org/h5p/embed/707" width="709" height="363" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 > Created with [MarkHub](http://markhub.io/).
 <!--markhub_data:
-eyJoaXN0b3J5IjpbNzY3MDIzODg1LC0xNjk1ODc0MDk2LDEwMj
-YxNzYwOTAsLTE1MDYzMjkwOTAsODkzMTQ2OTgzLDU4Mjk0ODI0
-MSw3MzkxMDk4NDUsMTU3MjgxNTMwNyw4NTI2MzM3MTEsMTkzND
-c0MTA0LC0xMTI0ODczNDQzLC0xOTA0MzM3MDAsMTc2NjMwNTU5
-OCwxMDMxNjY1ODgyLC00MjAyNjg4OTddfQ==
+eyJoaXN0b3J5IjpbMTc1NTEzMDM3MCw3NjcwMjM4ODUsLTE2OT
+U4NzQwOTYsMTAyNjE3NjA5MCwtMTUwNjMyOTA5MCw4OTMxNDY5
+ODMsNTgyOTQ4MjQxLDczOTEwOTg0NSwxNTcyODE1MzA3LDg1Mj
+YzMzcxMSwxOTM0NzQxMDQsLTExMjQ4NzM0NDMsLTE5MDQzMzcw
+MCwxNzY2MzA1NTk4LDEwMzE2NjU4ODIsLTQyMDI2ODg5N119
 -->
