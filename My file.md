@@ -43,11 +43,18 @@ Lists:
 <iframe src="https://h5p.org/h5p/embed/707" width="709" height="363" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+:::{.alert .alert-success}
+**Успішно!** Сповіщення про успішну чи позитивну дію.
+:::
+
+
+
 > Created with [MarkHub](http://markhub.io/).
 <!--markhub_data:
-eyJoaXN0b3J5IjpbMTc1NTEzMDM3MCw3NjcwMjM4ODUsLTE2OT
-U4NzQwOTYsMTAyNjE3NjA5MCwtMTUwNjMyOTA5MCw4OTMxNDY5
-ODMsNTgyOTQ4MjQxLDczOTEwOTg0NSwxNTcyODE1MzA3LDg1Mj
-YzMzcxMSwxOTM0NzQxMDQsLTExMjQ4NzM0NDMsLTE5MDQzMzcw
-MCwxNzY2MzA1NTk4LDEwMzE2NjU4ODIsLTQyMDI2ODg5N119
+eyJoaXN0b3J5IjpbLTEwODA1OTgwNTksMTc1NTEzMDM3MCw3Nj
+cwMjM4ODUsLTE2OTU4NzQwOTYsMTAyNjE3NjA5MCwtMTUwNjMy
+OTA5MCw4OTMxNDY5ODMsNTgyOTQ4MjQxLDczOTEwOTg0NSwxNT
+cyODE1MzA3LDg1MjYzMzcxMSwxOTM0NzQxMDQsLTExMjQ4NzM0
+NDMsLTE5MDQzMzcwMCwxNzY2MzA1NTk4LDEwMzE2NjU4ODIsLT
+QyMDI2ODg5N119
 -->
