@@ -17,11 +17,10 @@ Another change to my file
 *fg f*
 **fdfsdf fd fdfd** 
 
-<![endif]-->
 
-# Header 1
+## Header 1
 
-## Header 2
+### Header 2
 
 *Italic*
 
@@ -47,7 +46,7 @@ Lists:
 **Успішно!** Сповіщення про успішну чи позитивну дію.
 :::
 
-```
+
 :::{.tab-list}
 1. Вкладка 1
 2. Вкладка 2
@@ -57,30 +56,24 @@ Lists:
     * Контент для 2 вкладки
     * Конетнт для 3 вкладки
 :::
-```
+
 
 <details class="more">  
 <summary>Додаткова інформація</summary>  
 Блок з додатковою інформацією  
 </details>
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-```mermaid
-graph TD; A-->B; A-->C; B-->D; C-->D;
 
-> Created with [MarkHub](http://markhub.io/).
+\begin{equation*} 
+\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x)
+\end{equation*} 
+
 <!--markhub_data:
-eyJoaXN0b3J5IjpbNjI0NzI5NjYyLC0xNzI2MjUxNzA2LC0xMj
-k5MTE3ODEwLC0xMDgwNTk4MDU5LDE3NTUxMzAzNzAsNzY3MDIz
-ODg1LC0xNjk1ODc0MDk2LDEwMjYxNzYwOTAsLTE1MDYzMjkwOT
-AsODkzMTQ2OTgzLDU4Mjk0ODI0MSw3MzkxMDk4NDUsMTU3Mjgx
-NTMwNyw4NTI2MzM3MTEsMTkzNDc0MTA0LC0xMTI0ODczNDQzLC
-0xOTA0MzM3MDAsMTc2NjMwNTU5OCwxMDMxNjY1ODgyLC00MjAy
-Njg4OTddfQ==
+eyJoaXN0b3J5IjpbLTE5ODM5MTE5MjUsNjI0NzI5NjYyLC0xNz
+I2MjUxNzA2LC0xMjk5MTE3ODEwLC0xMDgwNTk4MDU5LDE3NTUx
+MzAzNzAsNzY3MDIzODg1LC0xNjk1ODc0MDk2LDEwMjYxNzYwOT
+AsLTE1MDYzMjkwOTAsODkzMTQ2OTgzLDU4Mjk0ODI0MSw3Mzkx
+MDk4NDUsMTU3MjgxNTMwNyw4NTI2MzM3MTEsMTkzNDc0MTA0LC
+0xMTI0ODczNDQzLC0xOTA0MzM3MDAsMTc2NjMwNTU5OCwxMDMx
+NjY1ODgyXX0=
 -->
